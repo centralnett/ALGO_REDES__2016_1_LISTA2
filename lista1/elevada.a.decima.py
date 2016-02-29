@@ -1,0 +1,1 @@
+print ("valor 2 elevada a decima é:",2**10)

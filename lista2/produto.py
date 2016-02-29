@@ -1,0 +1,5 @@
+Cliente = input()
+Valor = input()
+Quantidade = input()
+Total_de = int (Valor) * int (Quantidade)
+print ("Senhor %s, suas compras totalizam em R$%.2f" % (Cliente, Total_de))
